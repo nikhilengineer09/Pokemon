@@ -1,4 +1,4 @@
-# PokeWiki
+# PokeWiki 🔥🔥
 
 ## Link to PokeWiki : pokemonball.netlify.app
 
